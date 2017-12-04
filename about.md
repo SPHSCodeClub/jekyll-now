@@ -13,4 +13,5 @@ If you'd like to sign up for Code Club, email Mrs. York at [yorkju@spsdme.org](m
 ### Contact us
 
 [codeclubsphs@gmail.com](mailto:codeclubsphs@gmail.com)
+
 [Twitter](https://twitter.com/sphscodeclub)
