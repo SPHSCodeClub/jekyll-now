@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! Welcome to the Code Club website. Here, you will find information and news regarding meetings and projects.
 
-### More Information
+### Signing Up
 
-A place to include any other types of information that you'd like to include about yourself.
+If you'd like to sign up for Code Club, email Mrs. York at [yorkju@spsdme.org](mailto:yorkju@spsdme.org) or the club's email below.
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[codeclubsphs@gmail.com](mailto:codeclubsphs@gmail.com)
+[Twitter](https://twitter.com/sphscodeclub)
